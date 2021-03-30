@@ -1,0 +1,3 @@
+DUMMY:
+  ttl: 1800000
+  maxIdleTime: 900000

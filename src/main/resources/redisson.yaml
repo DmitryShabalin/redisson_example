@@ -1,0 +1,3 @@
+# https://github.com/redisson/redisson/wiki/2.-Configuration#26-single-instance-mode
+singleServerConfig:
+  address: "redis://127.0.0.1:6379"
